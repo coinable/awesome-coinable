@@ -1,5 +1,6 @@
 # awesome-coinable
 A curated list of awesome online Web3 stores built with [Coinable](https://coinablepay.com/).
+
 *Dont see your store? Create a PR!*
 
 Accepting [USDC](https://www.circle.com/en/usdc), USDT, SOL, and Solana based tokens.
