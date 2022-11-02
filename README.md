@@ -12,7 +12,8 @@ Accepting [USDC](https://www.circle.com/en/usdc), USDT, SOL, and Solana based to
 [Elgin Crystals](https://coinablepay.com/store/elgincrystals): Women Owned & Family Operated.\
 [The Sticker Shop](https://coinablepay.com/store/the-sticker-shop): Just a lil shop run by an enjoyoor of NFTs and his son.\
 [Coffee Addicts](https://coinablepay.com/store/coffee-addicts): Japanese coffee products for the coffee addicts of the world.\
-[Living With Balance](https://coinablepay.com/store/living-with-balance): Take care of yourself the natural way
+[Living With Balance](https://coinablepay.com/store/living-with-balance): Take care of yourself the natural way\
+[Ratchet Revolutionary](https://coinablepay.com/store/ratchetrevolutionary): The next big streetwear brand. Look Good. Feel Good. Do Good.
 
 #### Services
 
