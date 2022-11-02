@@ -17,6 +17,7 @@ Accepting [USDC](https://www.circle.com/en/usdc), USDT, SOL, and Solana based to
 
 #### Services
 
+[Earlz Kitchen](https://coinablepay.com/store/earlz-kitchen): Food delivery service in Owerri.
 [Cryptolink](https://coinablepay.com/store/cryptolink): I make writing clear, so your community understands what you're saying.\
 [Chocoo's Lab](https://coinablepay.com/store/chocoos-lab): 25yo. student, motorbike and winter sports passionate, web3 enthusiast and creator.\
 [Ste3](https://coinablepay.com/store/ste3)
