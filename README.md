@@ -13,11 +13,12 @@ Accepting [USDC](https://www.circle.com/en/usdc), USDT, SOL, and Solana based to
 [The Sticker Shop](https://coinablepay.com/store/the-sticker-shop): Just a lil shop run by an enjoyoor of NFTs and his son.\
 [Coffee Addicts](https://coinablepay.com/store/coffee-addicts): Japanese coffee products for the coffee addicts of the world.\
 [Living With Balance](https://coinablepay.com/store/living-with-balance): Take care of yourself the natural way\
-[Ratchet Revolutionary](https://coinablepay.com/store/ratchetrevolutionary): The next big streetwear brand. Look Good. Feel Good. Do Good.
+[Ratchet Revolutionary](https://coinablepay.com/store/ratchetrevolutionary): The next big streetwear brand. Look Good. Feel Good. Do Good.\
+[Earlz Kitchen](https://coinablepay.com/store/earlz-kitchen): Food delivery service in Owerri.
 
 #### Services
 
-[Earlz Kitchen](https://coinablepay.com/store/earlz-kitchen): Food delivery service in Owerri.\
+[Cloudmaxisnft](https://coinablepay.com/store/cloudmaxisnft): Your Virtual Computer on The Cloud.\
 [Cryptolink](https://coinablepay.com/store/cryptolink): I make writing clear, so your community understands what you're saying.\
 [Chocoo's Lab](https://coinablepay.com/store/chocoos-lab): 25yo. student, motorbike and winter sports passionate, web3 enthusiast and creator.\
 [Ste3](https://coinablepay.com/store/ste3)
