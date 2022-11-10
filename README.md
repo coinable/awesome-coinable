@@ -14,7 +14,9 @@ Accepting [USDC](https://www.circle.com/en/usdc), USDT, SOL, and Solana based to
 [Coffee Addicts](https://coinablepay.com/store/coffee-addicts): Japanese coffee products for the coffee addicts of the world.\
 [Living With Balance](https://coinablepay.com/store/living-with-balance): Take care of yourself the natural way\
 [Ratchet Revolutionary](https://coinablepay.com/store/ratchetrevolutionary): The next big streetwear brand. Look Good. Feel Good. Do Good.\
-[Earlz Kitchen](https://coinablepay.com/store/earlz-kitchen): Food delivery service in Owerri.
+[Earlz Kitchen](https://coinablepay.com/store/earlz-kitchen): Food delivery service in Owerri.\
+[Sol3DPrint](https://coinablepay.com/store/sol3dprint): If you have a 3D model of your favourite NFT project or anything else, we can make it and ship it to you!\
+[MMCC](https://shop.mmccsolana.com/): High-quality NFT clothing for MMCC.
 
 #### Services
 
