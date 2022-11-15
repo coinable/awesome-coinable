@@ -27,4 +27,5 @@ Accepting [USDC](https://www.circle.com/en/usdc), USDT, SOL, and Solana based to
 
 #### Digital Products
 
-[FH&L](https://coinablepay.com/store/fhl): Follower of Christ. Husband. Father. Creative Director of Product @unfoldco. Web3 nerd. fhlcreative.eth | .sol.
+[FH&L](https://coinablepay.com/store/fhl): Follower of Christ. Husband. Father. Creative Director of Product @unfoldco. Web3 nerd. fhlcreative.eth | .sol.\
+[Lite](https://coinablepay.com/store/lite): Powered by matcha.
