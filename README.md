@@ -17,13 +17,16 @@ Accepting [USDC](https://www.circle.com/en/usdc), USDT, SOL, and Solana based to
 [Earlz Kitchen](https://coinablepay.com/store/earlz-kitchen): Food delivery service in Owerri.\
 [Sol3DPrint](https://coinablepay.com/store/sol3dprint): If you have a 3D model of your favourite NFT project or anything else, we can make it and ship it to you!\
 [MMCC](https://shop.mmccsolana.com/): High-quality NFT clothing for MMCC.
+[Mike Ventures](https://coinablepay.com/store/mike-ventures)
+
 
 #### Services
 
 [Cloudmaxisnft](https://coinablepay.com/store/cloudmaxisnft): Your Virtual Computer on The Cloud.\
 [Cryptolink](https://coinablepay.com/store/cryptolink): I make writing clear, so your community understands what you're saying.\
 [Chocoo's Lab](https://coinablepay.com/store/chocoos-lab): 25yo. student, motorbike and winter sports passionate, web3 enthusiast and creator.\
-[Ste3](https://coinablepay.com/store/ste3)
+[Ste3](https://coinablepay.com/store/ste3)\
+[LMTA](https://coinablepay.com/store/lmta): Liquid Markets Trading Academy
 
 #### Digital Products
 
